@@ -1,4 +1,4 @@
 Data
-EDA
+EDA (Changes)
 Feature Selection (Best Features)
 Model Implementation
