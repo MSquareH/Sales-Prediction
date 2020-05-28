@@ -1,4 +1,4 @@
 Data
 EDA
-Feature Selection (All Features)
+Feature Selection (Best Features)
 Model Implementation
