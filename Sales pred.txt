@@ -2,3 +2,5 @@ Data
 EDA (Changes)
 Feature Selection (Best Features)
 Model Implementation
+
+Model 1 (KNN)
